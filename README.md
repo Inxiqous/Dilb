@@ -1,8 +1,6 @@
-
-
 # Model Card: DALL·E Mini
 
-This model is a reproduction of OpenAI’s DALL·E.  Please see [this link](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-Mini-Explained-with-Demo--Vmlldzo4NjIxODA) for project-specific details.  Below, we include the original DALL·E model card available on [the OpenAI github](https://github.com/openai/DALL-E/edit/master/model_card.md).
+This model is a reproduction of OpenAI’s DALL·E.  Please see [this link](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini-Generate-images-from-any-text-prompt--VmlldzoyMDE4NDAy) for project-specific details.  Below, we include the original DALL·E model card available on [the OpenAI github](https://github.com/openai/DALL-E/edit/master/model_card.md).
 
 ## Model Details
 
