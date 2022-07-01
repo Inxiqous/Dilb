@@ -2,6 +2,15 @@
 tags:
 - text-to-image
 license: apache-2.0
+
+co2_eq_emissions: 7540 g
+language: en
+model-index: 
+  - name: dalle-mini
+    results: []
+task: 
+  name: Text to Image
+  type: text-to-image
 ---
 
 # DALL·E Mini Model Card
