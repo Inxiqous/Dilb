@@ -1,3 +1,9 @@
+---
+tags:
+- text-to-image
+license: apache-2.0
+---
+
 # DALL·E Mini Model Card
 
 This model card focuses on the model associated with the DALL·E mini space on Hugging Face, available [here](https://huggingface.co/spaces/dalle-mini/dalle-mini). The app is called “dalle-mini”, but  incorporates “[DALL·E Mini](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini-Generate-images-from-any-text-prompt--VmlldzoyMDE4NDAy)’’ and “[DALL·E Mega](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-Mega-Training-Journal--VmlldzoxODMxMDI2)” models (further details on this distinction forthcoming).
