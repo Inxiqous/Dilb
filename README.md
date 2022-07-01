@@ -1,9 +1,15 @@
 ---
+
+inference: false
+co2_eq_emissions:
+      emissions: 7540
+      source: MLCo2 Machine Learning Impact calculator
+      geographical_location: East USA
+      hardware_used: TPU v3-8
 tags:
 - text-to-image
 license: apache-2.0
 
-co2_eq_emissions: 7540 g
 language: en
 model-index: 
   - name: dalle-mini
