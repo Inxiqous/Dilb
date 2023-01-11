@@ -166,7 +166,7 @@ Based on that information, we estimate the following CO2 emissions using the [Ma
 * **Hours used:** 72 (3 days)
 * **Cloud Provider:** GCP (as mentioned in the technical report)
 * **Compute Region:** us-east1 (provided by model developers)
-* **Carbon Emitted (Power consumption x Time x Carbon produced based on location of power grid):** 7.54 kg CO2 eq.
+* **Carbon Emitted (Power consumption x Time x Carbon produced based on location of power grid):** 30.16 kg CO2 eq.
 
 ### DALL·E Mega Estimated Emissions
 
