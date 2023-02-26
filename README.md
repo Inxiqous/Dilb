@@ -1,19 +1,25 @@
 ---
-
 inference: false
 co2_eq_emissions:
-      emissions: 7540
-      source: MLCo2 Machine Learning Impact calculator
-      geographical_location: East USA
-      hardware_used: TPU v3-8
+  emissions: 7540
+  source: MLCo2 Machine Learning Impact calculator
+  geographical_location: East USA
+  hardware_used: TPU v3-8
 tags:
 - text-to-image
 license: apache-2.0
-
-language: en
-model-index: 
-  - name: dalle-mini
-    results: []
+language:
+- en
+- ru
+model-index:
+- name: dalle-mini
+  results: []
+datasets:
+- Nerfgun3/bad_prompt
+- fka/awesome-chatgpt-prompts
+metrics:
+- accuracy
+library_name: asteroid
 ---
 
 # DALL·E Mini Model Card
